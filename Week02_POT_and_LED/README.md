@@ -27,7 +27,8 @@
   * **ความละเอียดของสัญญาณ:** 12-bit (ให้ค่าสัมบูรณ์ในช่วง 0 – 4095)
   * **ค่า Attenuation:** `ADC_ATTEN_DB_12` (รองรับช่วงแรงดันสูงสุดที่ 0V – 3.3V)
 * **ซอร์สโค้ด:** [main.c](ESP32_Project/POT_ADC_Read/main/main.c)
-* **วิดีโอบันทึกผลการทดลอง:** [รับชมวิดีโอ]()
+* **วิดีโอบันทึกผลการทดลอง:** <img width="602" height="387" alt="messageImage_1793467609524" src="https://github.com/user-attachments/assets/00440634-62e6-4ed1-8af2-ec40309b5b0c" />
+
 
 ---
 
